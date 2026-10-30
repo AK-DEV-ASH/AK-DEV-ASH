@@ -106,3 +106,42 @@ A C-based project repository exploring core programming concepts.
 I’m building a strong foundation across both software development and AI by focusing on:
 
 - Python for data, automation, and AI
+- Web development for building real, usable interfaces
+- Django for backend and application structure
+- JavaScript for dynamic front-end behavior
+- AI and machine learning basics for intelligent systems
+- Problem-solving through practical project work
+- Improving code quality, project structure, and consistency
+
+---
+
+## Connect
+
+- GitHub: https://github.com/AK-DEV-ASH
+- Email: akakash.sreesathya@gmail.com
+- LinkedIn: Not added yet
+- Portfolio: Coming soon
+
+---
+
+## Goals
+
+- Strengthen my skills in Python and web development
+- Explore AI and machine learning concepts in depth
+- Build practical projects that solve real problems
+- Grow into a capable developer with hands-on experience
+- Keep learning consistently and build a strong technical foundation
+
+---
+
+## Motto
+
+> “Learn by building, improve by practicing, and grow through every project.”
+
+---
+
+If you want, I can also give you:
+- a cleaner version without images
+- a more professional version
+- a premium dark-mode version
+- or a shorter profile README for GitHub.
