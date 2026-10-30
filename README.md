@@ -139,9 +139,3 @@ I’m building a strong foundation across both software development and AI by fo
 > “Learn by building, improve by practicing, and grow through every project.”
 
 ---
-
-If you want, I can also give you:
-- a cleaner version without images
-- a more professional version
-- a premium dark-mode version
-- or a shorter profile README for GitHub.
